@@ -66,8 +66,5 @@ public class  DeviceAndConquer {
         System.out.println("Tổng giá trị lớn nhất của dãy số trong mảng là: "
                 + dac.maxSum(dac.array, 0, dac.array.length - 1));
 
-        System.out.println(dac.mL);
-        System.out.println(dac.mR);
-        System.out.println(dac.mM);
     }
 }
